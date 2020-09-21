@@ -1,0 +1,42 @@
+[
+  {
+    "name": "LOJ",
+    "id": "loj"
+  },
+  {
+    "name": "BZOJ",
+    "id": "bzoj"
+  },
+  {
+    "name": "UOJ",
+    "id": "uoj"
+  },
+  {
+    "name": "GuOJ",
+    "id": "guoj"
+  },
+  {
+    "name": "清橙",
+    "id": "tsinsen"
+  },
+  {
+    "name": "COGS",
+    "id": "cogs"
+  },
+  {
+    "name": "seuOJ",
+    "id": "seuoj"
+  },
+  {
+    "name": "Lutece (UESTC OJ)",
+	"id": "lutece"
+  },
+  {
+    "name": "JoyOI",
+	"id": "joyoi"
+  },
+  {
+    "name": "CodeVS",
+	"id": "codevs"
+  }
+]
