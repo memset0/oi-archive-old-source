@@ -1,0 +1,1 @@
+{"title":"l2.7.8 三五七","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l7-08","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述：从键盘输入一个整数，判断它能否被3，5，7整除，可以整除输出1，否则输出0\n"}]}

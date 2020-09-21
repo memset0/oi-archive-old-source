@@ -1,0 +1,1 @@
+{"title":"素数","time_limit":1000,"memory_limit":64,"url":"http://www.joyoi.cn/problem/tyvj-3100","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n\n \n # 题目描述 \n<p>只能被1和本身整除的数称为素数，现在你的任务是随意输出一个字符串，保证字符串长度是一个20以内的素数。</p> \n\n \n # 输入格式 \n<p>此题没有输入内容</p> \n\n \n # 输出格式 \n<p>输出一个字符串</p> \n\n \n # 提示 \n<p>此题目不设置样例，本题行末空格不计长度。</p> \n\n"}]}

@@ -1,0 +1,1 @@
+{"title":"A+Bproblem","time_limit":1000,"memory_limit":1,"url":"http://www.joyoi.cn/problem/10000","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n输入两个整数a,b，输出它们的和(|a|,|b|<=10^9)。\n一个数输出他们的和\n>紧随尹神的步伐\n"}]}

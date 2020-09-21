@@ -1,0 +1,1 @@
+{"title":"L2.3.6 连接字符串","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l3-06","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 定义两个字符串变量a和b，值分别是“hello\"和\"world”，定义变量c，c等于a连接b，并输出c\n\n输入： 空 输出：字符串\n"}]}

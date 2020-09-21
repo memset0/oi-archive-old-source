@@ -1,0 +1,1 @@
+{"title":"l4.4.3 清零","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l4-l4-03","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述：定义一个浮点型数组a[10],不用进行初始化，对这个数组清零并输出，每个数用空格隔开\n\n输入：无\n输出：10个0，用空格隔开\n"}]}

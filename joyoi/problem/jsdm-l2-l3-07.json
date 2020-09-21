@@ -1,0 +1,1 @@
+{"title":"L2.3.7 字符串重复","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l3-07","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 定义字符串变量a，值是“hello\"，连续输出5个hello\n\n输入： 空 输出：字符串\n"}]}

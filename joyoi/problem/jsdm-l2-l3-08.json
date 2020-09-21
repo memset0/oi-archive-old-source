@@ -1,0 +1,1 @@
+{"title":"L2.3.8 截取开头字符串和结尾字符串","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l3-08","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 定义一个字符串变量a，值是“aabbccddeeff”，先截取并输出前4个字符，再截取并输出后6个字符。\n\n输入： 空 输出：每行一个字符串，换行隔开\n"}]}

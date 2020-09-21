@@ -1,0 +1,1 @@
+{"title":"l2.7.9 列表判断","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l7-09","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述：定义一个列表，里面全是数字，如果里面数字没有大于0的数，输出1，否则输出0.\n"}]}

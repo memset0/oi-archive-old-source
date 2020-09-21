@@ -1,0 +1,1 @@
+{"title":"红色","time_limit":1000,"memory_limit":256,"url":"http://www.joyoi.cn/problem/QB-19718","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n给定a,b， 求a和b最大公因数异或a和b的最小公倍数的值\n\n"}]}

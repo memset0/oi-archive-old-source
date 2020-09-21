@@ -1,0 +1,1 @@
+{"title":"L2.3.2 访问字符串中一个元素","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l3-02","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 定义一个字符串变量“hello world!”，取其中的第5个字符和第9个字符\n\n输入： 空 输出：每行一个字符，换行隔开\n"}]}

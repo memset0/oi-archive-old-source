@@ -1,0 +1,1 @@
+{"title":"l4.4.2 字符数组","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l4-02","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述：定义一个字符数组a[3],从键盘输入，并输出，每个字符用空格隔开\n\n输入：2个字符\n输出：两个字符\n"}]}

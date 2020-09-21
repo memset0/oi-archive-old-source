@@ -1,0 +1,1 @@
+{"title":"l2.7.6 奖赏","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l7-06","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述：从键盘输入数学和英语分数，如果有一门分数大于90，就可以向老师去要一本书，判断是否满足这个条件，满足输出1，不满足输出0\n"}]}

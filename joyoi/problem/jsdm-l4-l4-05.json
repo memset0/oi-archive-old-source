@@ -1,0 +1,1 @@
+{"title":"l4.4.5 查分","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l4-l4-05","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述：用数组保存1-5号同学的成绩，先输入成绩，然后输入学号输出相应的成绩。\n\n输入：每位同学的成绩，用空格隔开，再输入想查询成绩同学的学号\n输出：成绩\n"}]}

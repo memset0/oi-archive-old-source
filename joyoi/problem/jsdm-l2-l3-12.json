@@ -1,0 +1,1 @@
+{"title":"L2.3.12 输出格式化字符串","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l3-12","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 定义字符串变量a，值是\"Tom\"，定义一个整数变量，值是\"12”，使用格式化输出方式，输出字符串：\"The age of Tom is 12\"\n\n输入： 空 输出：The age of Tom is 12\n"}]}

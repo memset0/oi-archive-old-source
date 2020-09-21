@@ -1,0 +1,1 @@
+{"title":"青丘杨哲创建的新题目2","time_limit":1000,"memory_limit":286,"url":"http://www.joyoi.cn/problem/qqyz002","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n输入n，m，x，输出n的m次方对x的取模结果。\n\nn，m≤5×10^7\n"}]}

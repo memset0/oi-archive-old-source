@@ -1,0 +1,1 @@
+{"title":"RC数","time_limit":1000,"memory_limit":122,"url":"http://www.joyoi.cn/problem/RCnumber","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n从10-99之间选出两个不同的数，“拼”成一个四位数（例：23,31拼成2331或3123）。这个四位数若满足如下要求：\n\n1，选出的两个数是质数（如11，23）\n\n2，这个四位数能被这两个质数的平均数整除\n\n那么这个四位数就是一个RC数。请从小到大输出所有的RC数。每个之间空一格。\n"}]}

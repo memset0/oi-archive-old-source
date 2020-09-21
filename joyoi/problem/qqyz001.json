@@ -1,0 +1,1 @@
+{"title":"青丘杨哲创建的新题目","time_limit":1000,"memory_limit":286,"url":"http://www.joyoi.cn/problem/qqyz001","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n输入1，在屏幕上从小到大输出1到100000的正整数，中间空一格，不换行。\n\n格式如：1 2 3 …… 100000\n"}]}

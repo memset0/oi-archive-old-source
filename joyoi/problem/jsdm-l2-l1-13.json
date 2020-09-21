@@ -1,0 +1,1 @@
+{"title":"L2.1.13 变量的减法","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l1-13","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 声明三个变量，名字自己来取，他们的值分别是3476、1024和56，输出第一个变量与第二个变量的差，再输出第二个变量与第三个变量的差。\n\n提示： 变量的名字是小写\n"}]}

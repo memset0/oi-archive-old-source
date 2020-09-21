@@ -1,0 +1,1 @@
+{"title":"超级随机数","time_limit":50,"memory_limit":64,"url":"http://www.joyoi.cn/problem/tyvj-3977","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n\n \n # 题目描述 \n<p>随机数问题一直是计算机界的一大难题，似乎从未有人能把随机输出0或1的问题AC！</p> \n\n \n # 输入格式 \n<p>无</p> \n\n \n # 输出格式 \n<p>一行一个整数，0或1。</p> \n\n \n # 提示 \n<p>超级RP大考验。</p> \n\n"}]}

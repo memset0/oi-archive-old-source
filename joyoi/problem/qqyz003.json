@@ -1,0 +1,1 @@
+{"title":"青丘杨哲创建的新题目3","time_limit":1000,"memory_limit":286,"url":"http://www.joyoi.cn/problem/qqyz003","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n输入两个正整数n和m，输出n和m的最大公因数。\n\nn，m≤10^18\n"}]}

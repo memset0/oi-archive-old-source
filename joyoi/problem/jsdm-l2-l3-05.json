@@ -1,0 +1,1 @@
+{"title":"L2.3.5 修改字符串的值","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l3-05","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 定义两个字符串变量a和b，值分别是“hello\"和\"world”，将a修改为b的值，然后将a和b输出\n\n输入： 空 输出：每行一个字符串，换行隔开\n"}]}

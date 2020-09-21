@@ -1,0 +1,1 @@
+{"title":"青丘杨哲创建的新题目2-new（不要做旧的！WA自负！）","time_limit":1000,"memory_limit":286,"url":"http://www.joyoi.cn/problem/qqyz002-new","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n输入两个正整数n，m，x，输出n的m次方对x取模的结果\n\nn，m≤5×10^7 x≤2×10^9\n"}]}

@@ -1,0 +1,1 @@
+{"title":"l2.7.1 判断变量","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l7-01","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述：定义一个字符串，里面内容是你的名字，判断这个变量里的内容是不是你的名字，是输出welcome，否则输出这个变量里的内容\n输入：无\n输出：welcome\n"}]}

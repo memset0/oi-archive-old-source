@@ -1,0 +1,1 @@
+{"title":"L2.3.3 字符串截取","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l3-03","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 定义一个字符串变量“hello world!”，截取其中的第3到第5字符串并输出，再截取第7到第9字符串并输出\n\n输入： 空 输出：每行一个字符串，换行隔开\n\n"}]}

@@ -1,0 +1,1 @@
+{"title":"打印图形","time_limit":1000,"memory_limit":64,"url":"http://www.joyoi.cn/problem/tyvj-3970","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n\n \n # 输入格式 \n<p>5</p> \n\n \n # 输出格式 \n<p>&nbsp;&nbsp;&nbsp;&nbsp;A<br />\r\n&nbsp;&nbsp;&nbsp;222<br />\r\n&nbsp;&nbsp;BBBBB<br />\r\n&nbsp;3333333<br />\r\nCCCCCCCCC</p> \n\n"}]}

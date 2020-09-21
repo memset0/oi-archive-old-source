@@ -1,0 +1,1 @@
+{"title":"青丘杨哲创建的新题目4","time_limit":1000,"memory_limit":286,"url":"http://www.joyoi.cn/problem/qqyz004","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n输入一个数n，输出斐波那契数列第n项对10取模的结果。\n\n斐波那契数列在此题中指f[1]=1，f[2]=1，且对于n>2均有f[n]=f[n-1]+f[n-2]\n\nn≤10^6\n"}]}

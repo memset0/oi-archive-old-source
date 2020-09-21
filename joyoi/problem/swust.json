@@ -1,0 +1,1 @@
+{"title":"特殊回文数 c","time_limit":100,"memory_limit":3,"url":"http://www.joyoi.cn/problem/swust","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n#问题描述\n123321是一个非常特殊的数，它从左边读和从右边读是一样的\n输入一个正整数n， 编程求所有这样的五位和六位十进制数，满足各位数字之和等于n \n1<=n<=54。\n##输入格式\n输入一行，包含一个正整数n\n##输出格式\n按从小到大的顺序输出满足条件的整数，每个整数占一行\n#样例\n##输入\n52\n##输出\n899998\n989989\n998899\n　\n"}]}

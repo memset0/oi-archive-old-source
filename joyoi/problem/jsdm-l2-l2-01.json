@@ -1,0 +1,1 @@
+{"title":"L2.2.1 变量的赋值","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l2-01","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 声明两个变量a和b，变量的值分别赋值为50和50，再将100赋值给a，输出a的值和b的值。\n"}]}

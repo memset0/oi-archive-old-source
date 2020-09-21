@@ -1,0 +1,1 @@
+{"title":"L2.2.11 判断或","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l2-11","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 声明变量a，a的初始值是20，判断如果a大于50或者小于10，如果成立，则输出yes，否则输出no\n"}]}

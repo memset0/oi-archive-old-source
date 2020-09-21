@@ -1,0 +1,1 @@
+{"title":"L4.4.1 声明并输出","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l4-l4-01","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述：定义一个整型数组a[2],里面的值分别是1，2，3并输出\n\n输入：无\n输出：1 2 3\n"}]}

@@ -1,0 +1,1 @@
+{"title":"L2.3.4 修改字符串的值","time_limit":1000,"memory_limit":62,"url":"http://www.joyoi.cn/problem/jsdm-l2-l3-04","statement":[{"title":"","format":"markdown","require":["katex"],"content":"\n# \n描述： 定义一个字符串变量“hello world!”，截取其第1到第5个字符，然后将他修改为截取的字符，并输出\n\n输入： 空 输出：hello\n"}]}
